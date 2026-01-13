@@ -1,0 +1,22 @@
+name = "Jan_Hack Copy"
+
+
+[files]
+"./dom/channel.py" = ""
+"./dom/dom_btns.py" = ""
+"./dom/Hub.py" = ""
+"./dom/TechElement.py" = ""
+"./dom/pyConst.py" = ""
+"./dom/SetupHub.py" = ""
+"./dom/SetupChannels.py" = ""
+"./worker/worker_motors.py" = ""
+"./worker/worker_sensors.py" = ""
+"./worker/worker_channel.py" = ""
+"./unit_tests/channels_test.py" = ""
+"./unit_tests/single_motor_test.py" = ""
+"./unit_tests/double_motor_test.py" = ""
+"./unit_tests/color_sensor_test.py" = ""
+"./unit_tests/controller_test.py" = ""
+
+[js_modules.main]
+"./js/ble.js" = "ble"
